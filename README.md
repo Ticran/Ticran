@@ -77,7 +77,7 @@ A web application for managing gym clients and their membership information.
 * REST API
 * MongoDB persistence
 
-📂 AppGym(https://github.com/Ticran/AppGym)
+📂 AppGym (https://github.com/Ticran/AppGym)
 
 <br>
 
@@ -99,7 +99,7 @@ A web application for managing and displaying a furniture product catalog.
 * Product data management
 * MongoDB integration in progress
 
-📂 muebleriaApp(https://github.com/Ticran/muebleriaApp)
+📂 muebleriaApp (https://github.com/Ticran/muebleriaApp)
 
 <br>
 
