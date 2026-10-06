@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi, I'm Cristian Andrada 👋</h1>
 
-<h3 align="center">Full Stack Developer in Training · Systems Analyst Student· Río Cuarto, Córdoba, Argentina</h3>
+<h3 align="center">Full Stack Developer in Training · Systems Analyst Student · Río Cuarto, Córdoba, Argentina</h3>
 
 <p align="center">
-  [SHORT PROFESSIONAL DESCRIPTION — 1 o 2 oraciones concretas: qué hacés, con qué tecnologías y qué buscás. Evitá adjetivos vacíos.]
+  Systems Analyst student and Full Stack Developer in training, focused on web application development with JavaScript, React, Node.js and MongoDB. Currently building projects and looking for my first professional opportunity in web development.
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/cristian-andrada-a5706a31b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/cristian-andrada-a5706a31/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:candrada803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -19,14 +19,14 @@
 
 ## 👤 About Me
 
-I'm Cristian Andrada, a Full Stack Developer in Training · Systems Analyst Student Developer based in Argentina. [ONE SENTENCE about your background or what drives your work: a concrete fact, not a slogan.]
+I'm Cristian Andrada, a Full Stack Developer in Training and Systems Analyst student based in Río Cuarto, Córdoba, Argentina.
 
-- 🎓 Currently studying **Systems Analyst** at Universidad Nacional de Río Cuarto and Full Stack Development — ITBA
-- 💼 Experience: [EXPERIENCE — internships, freelance, personal projects, or "Building my first professional experience through personal projects"]
-- 💻 Currently working with **[TECHNOLOGY]**, **[TECHNOLOGY]** and **[TECHNOLOGY]**
-- 🌱 Currently learning **[TECHNOLOGY / CONCEPT]**
-- 🎯 Interested in **[AREA]** and **[AREA]**
-- 🗣️ Languages: Spanish (Native) · English (Basic)
+* 🎓 Currently studying **Systems Analysis** at the **Universidad Nacional de Río Cuarto (UNRC)**, 2023–2027
+* 💻 Currently working with **JavaScript**, **React**, **Node.js** and **MongoDB**
+* 🌱 Currently learning **Full Stack web development**, **REST APIs** and backend development
+* 🎯 Interested in **Frontend**, **Backend** and **Full Stack web development**
+* 🚀 Building my first professional experience through personal and academic projects
+* 🗣️ Languages: **Spanish (Native)** · **English (Basic)**
 
 ---
 
@@ -36,23 +36,23 @@ I'm Cristian Andrada, a Full Stack Developer in Training · Systems Analyst Stud
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=[ICON_ID_1],[ICON_ID_2],[ICON_ID_3])
+![Languages](https://skillicons.dev/icons?i=js)
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=[ICON_ID_1],[ICON_ID_2],[ICON_ID_3])
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
 
 **Backend**
 
-![Backend](https://skillicons.dev/icons?i=[ICON_ID_1],[ICON_ID_2],[ICON_ID_3])
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=[ICON_ID_1],[ICON_ID_2])
+![Databases](https://skillicons.dev/icons?i=mongodb)
 
 **Tools & Platforms**
 
-![Tools](https://skillicons.dev/icons?i=[ICON_ID_1],[ICON_ID_2],[ICON_ID_3])
+![Tools](https://skillicons.dev/icons?i=linux,git,github,npm)
 
 ---
 
@@ -60,54 +60,48 @@ I'm Cristian Andrada, a Full Stack Developer in Training · Systems Analyst Stud
 
 ## 🚀 Featured Projects
 
-### [PROJECT NAME]
+### 💪 AppGym
 
-[PROJECT DESCRIPTION — 1 o 2 oraciones: qué es y qué problema resuelve.]
+A web application for managing gym clients and their membership information.
 
-**Tech:** [TECHNOLOGY] · [TECHNOLOGY] · [TECHNOLOGY]
-**Status:** [In development / Completed / Maintained]
-**My role:** [ROLE IN THE PROJECT — solo / equipo de N personas, qué parte hiciste]
+**Tech:** JavaScript · Node.js · Express.js · MongoDB
+**Status:** Completed
+**My role:** Full Stack development
 
 **Features**
-- [FEATURE]
-- [FEATURE]
-- [FEATURE]
 
-[🔗 Live Demo]([DEMO URL]) · [📂 Repository]([REPOSITORY URL])
+* Client management
+* CRUD operations
+* Client detail view
+* Membership fee and expiration management
+* REST API
+* MongoDB persistence
+
+📂 AppGym(https://github.com/Ticran/AppGym)
 
 <br>
 
-### [PROJECT NAME]
+### 🪑 Mueblería App
 
-[PROJECT DESCRIPTION]
+A web application for managing and displaying a furniture product catalog.
 
-**Tech:** [TECHNOLOGY] · [TECHNOLOGY] · [TECHNOLOGY]
-**Status:** [STATUS]
-**My role:** [ROLE IN THE PROJECT]
+**Tech:** HTML · CSS · JavaScript · Node.js · Express.js · React · MongoDB
+**Status:** In progress
+**My role:** Frontend and backend development, including implementation and bug fixing
 
 **Features**
-- [FEATURE]
-- [FEATURE]
-- [FEATURE]
 
-[🔗 Live Demo]([DEMO URL]) · [📂 Repository]([REPOSITORY URL])
+* Product catalog
+* Product detail pages
+* Shopping cart functionality
+* LocalStorage
+* Backend API
+* Product data management
+* MongoDB integration in progress
+
+📂 muebleriaApp(https://github.com/Ticran/muebleriaApp)
 
 <br>
-
-### [PROJECT NAME]
-
-[PROJECT DESCRIPTION]
-
-**Tech:** [TECHNOLOGY] · [TECHNOLOGY] · [TECHNOLOGY]
-**Status:** [STATUS]
-**My role:** [ROLE IN THE PROJECT]
-
-**Features**
-- [FEATURE]
-- [FEATURE]
-- [FEATURE]
-
-[🔗 Live Demo]([DEMO URL]) · [📂 Repository]([REPOSITORY URL])
 
 ---
 
@@ -116,23 +110,29 @@ I'm Cristian Andrada, a Full Stack Developer in Training · Systems Analyst Stud
 ## 🌱 Current Focus
 
 **Currently learning**
-- [TECHNOLOGY]
-- [TECHNOLOGY]
-- [CONCEPT]
+
+* Full Stack web development
+* React
+* MongoDB
+* REST APIs
 
 **Currently building**
-- [PROJECT or PRACTICE GOAL]
+
+* 🪑 **Mueblería App**
 
 **Next on my list**
-- [TECHNOLOGY / CONCEPT]
+
+* Complete the MongoDB integration in my current project
+* Continue strengthening my frontend and backend skills
+* Gain my first professional experience in web development
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB USERNAME]&layout=compact&hide_border=true" alt="Top languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ticran&show_icons=true&hide_border=true" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ticran&layout=compact&hide_border=true" alt="Top languages">
 </p>
 
 ---
@@ -141,12 +141,12 @@ I'm Cristian Andrada, a Full Stack Developer in Training · Systems Analyst Stud
 
 ## 🎓 Education
 
-**[CAREER]** — [UNIVERSITY]
-[STATUS: In progress / Completed] · [START YEAR] – [END YEAR or Expected YEAR]
+**Systems Analyst** — Universidad Nacional de Río Cuarto (UNRC)
+In progress · 2023 – 2027
 
-**Courses & Certifications**
-- [COURSE / CERTIFICATION] — [INSTITUTION / PLATFORM] · [YEAR]
-- [COURSE / CERTIFICATION] — [INSTITUTION / PLATFORM] · [YEAR]
+**Courses**
+
+* Full Stack Development — ITBA
 
 ---
 
@@ -154,10 +154,11 @@ I'm Cristian Andrada, a Full Stack Developer in Training · Systems Analyst Stud
 
 ## 🎯 Career Goals
 
-I'm looking for [TYPE OF OPPORTUNITY: junior / trainee / internship / freelance] roles in [AREA], where I can [CONCRETE GOAL: e.g. contribute to real products while learning from an experienced team].
+I'm looking for **Junior or Trainee** opportunities in web development, where I can gain professional experience, contribute to real projects and continue developing my technical skills.
 
-**Areas of interest:** [AREA] · [AREA] · [AREA]
-**Technologies of interest:** [TECHNOLOGY] · [TECHNOLOGY] · [TECHNOLOGY]
+**Areas of interest:** Web Development · Frontend · Backend · Full Stack
+
+**Technologies of interest:** JavaScript · React · Node.js · Express.js · MongoDB · REST APIs
 
 ---
 
@@ -165,17 +166,15 @@ I'm looking for [TYPE OF OPPORTUNITY: junior / trainee / internship / freelance]
 
 ## 📫 Contact
 
-| | |
-|---|---|
-| **LinkedIn** | [[LINKEDIN URL]]([LINKEDIN URL]) |
-| **Email** | [[EMAIL]](mailto:[EMAIL]) |
-| **Portfolio** | [[PORTFOLIO URL]]([PORTFOLIO URL]) |
-| **[OTHER PLATFORM]** | [[OTHER URL]]([OTHER URL]) |
+|              |                                                                                                     |
+| ------------ | --------------------------------------------------------------------------------------------------- |
+| **LinkedIn** | [linkedin.com/in/cristian-andrada-a5706a31](https://www.linkedin.com/in/cristian-andrada-a5706a31/) |
+| **Email**    | [candrada803@gmail.com](mailto:candrada803@gmail.com)                                               |
 
 ---
 
 <!-- ===================== 10. FOOTER ===================== -->
 
 <p align="center">
-  [SHORT CLOSING LINE — e.g. "Open to opportunities. Feel free to reach out." Opcional: podés borrar todo el footer.]
+  Open to opportunities and always looking to keep learning.
 </p>
