@@ -128,15 +128,6 @@ A web application for managing and displaying a furniture product catalog.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ticran&show_icons=true&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ticran&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
----
-
 <!-- ===================== 7. EDUCATION ===================== -->
 
 ## 🎓 Education
@@ -168,7 +159,7 @@ I'm looking for **Junior or Trainee** opportunities in web development, where I 
 
 |              |                                                                                                     |
 | ------------ | --------------------------------------------------------------------------------------------------- |
-| **LinkedIn** | [linkedin.com/in/cristian-andrada-a5706a31](https://www.linkedin.com/in/cristian-andrada-a5706a31/) |
+| **LinkedIn** | [linkedin.com/in/cristian-andrada-a5706a31](https://www.linkedin.com/in/cristian-andrada-a5706a31b) |
 | **Email**    | [candrada803@gmail.com](mailto:candrada803@gmail.com)                                               |
 
 ---
